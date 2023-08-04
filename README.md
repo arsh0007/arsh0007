@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Merchandise](https://arsh0007.github.io/Merchandise/)
+- 🔭 I’m currently working on[Netflix-Clone](https://netflix-clone-5db37.web.app/)
 
 - 🌱 I’m currently learning **Reactjs framework.**
 
