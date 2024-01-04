@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arsh0007?tab=repositories](https://github.com/arsh0007?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, Dsa in Java.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Dsa in Java.**
 
 - 📫 How to reach me **arshkumar213@gmail.com**
 
